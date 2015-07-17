@@ -6,6 +6,7 @@ relative_permalinks: true
 
 # Setup
 title:               Блог
+tagline:             типа
 url:                 http://b.ocsf.in
 paginate:            3
 baseurl:             ""

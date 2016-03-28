@@ -2,13 +2,12 @@
 #
 # Use of `relative_permalinks` ensures post links from the index work properly.
 permalink:           pretty
-relative_permalinks: true
 
 # Setup
 title:               Блог
 tagline:             типа
 url:                 http://b.ocsf.in
-paginate:            3
+paginate:            5
 baseurl:             ""
 
 # Assets
